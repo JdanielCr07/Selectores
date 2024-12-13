@@ -1,0 +1,18 @@
+/* li:nth-child(3){
+    border: 3px solid red;
+} */
+
+/* li:nth-child(2n + 1){
+    border: 3px solid red;
+} */
+
+/* li:nth-child(even){
+    border: 3px solid red;
+} */
+/* li:nth-child(odd){
+    border: 3px solid red;
+} */
+li:nth-child(3n + 1){
+    border: 3px solid red;
+}
+
